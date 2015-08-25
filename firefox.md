@@ -1,15 +1,15 @@
 # Firefox Addons
 
 **Essential**
-Adblock Plus
-Video DownloadHelper
-DownThemAll
-Ghostery
+* Adblock Plus
+* Video DownloadHelper
+* DownThemAll
+* Ghostery
 
 **Extras**
-Firebug
-Cookies+
-Foxyproxy
-TamperData
-SQLInjectMe
+* Firebug
+* Cookies+
+* Foxyproxy
+* TamperData
+* SQLInjectMe
 
